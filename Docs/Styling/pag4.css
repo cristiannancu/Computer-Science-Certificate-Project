@@ -1,0 +1,48 @@
+body {
+margin:0px;
+margin-bottom:50px;
+background-color: #F0F0F0; 
+}
+
+.barnav td:hover {
+  background-color:#CDDCEA;
+}
+.barnav a:hover{
+  color: #000000;
+}
+.barnav {
+  font-family: 'Shift', sans-serif;
+  background-color: #ffffff;
+  z-index:1;
+  position:relative;
+  border-bottom: 3px solid #dbdbdb;
+}
+
+.barnav a{
+  color: #565051;
+}
+
+.jumbotron {
+  top:-520px;
+  height:170px;
+  position: relative;
+
+  z-index:-1;
+}
+
+
+.contact { 
+  border-top: 3px solid #dbdbdb;
+  background-color:#ffffff;
+  border-bottom: 3px solid #dbdbdb;
+}
+
+td.fll {
+  position:relative;
+  float:left;
+}
+
+td.flr {
+  position:relative;
+  float:right;
+}

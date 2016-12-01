@@ -1,0 +1,192 @@
+body {
+margin:0px;
+background-color:#efefef;
+}
+
+.barnav td:hover {
+  background-color:#CDDCEA;
+}
+.barnav a:hover{
+  color: #000000;
+}
+
+.barnav {
+  font-family: 'Shift', sans-serif;
+  background-color: #ffffff;
+  z-index:1;
+  position:relative;
+  border-bottom: 3px solid #dbdbdb;
+}
+
+.barnav a{
+  color: #565051;
+}
+
+.jumbotron {
+  top:-250px;
+  height: 450px;
+
+  border-bottom: 3px solid #dbdbdb;
+  position: relative;
+
+  z-index:-1;
+}
+
+
+
+
+.jumbotron h1 {
+
+  color: #fff;
+
+  font-size: 48px;
+  
+font-family: 'Shift', sans-serif;
+
+  font-weight: bold;
+
+  position: absolute;
+  top:320px;
+  left:115px;
+  text-shadow:#000 2px 2px;
+}
+
+
+
+.jumbotron p {
+
+  font-size: 20px;
+
+  color: #fff;
+
+  position: absolute;
+  top:395px;
+  left:115px;
+  text-shadow:#000 2px 2px;
+}
+
+
+
+
+.jumbotron a {
+
+  font-size: 25px;
+
+  color: #fff;
+
+  position: absolute;
+  top:450px;
+  left:115px;
+  text-shadow:#000 2px 2px;
+  z-index:1;
+}
+
+
+
+.learn-more {
+
+  background-color: #f7f7f7;
+
+  position:relative;
+  bottom:50px;
+ }
+
+
+
+.learn-more h3 {
+
+  font-family: 'Shift', sans-serif;
+
+  font-size: 18px;
+
+  font-weight: bold;
+
+}
+
+
+
+.learn-more a {
+
+  color: #00b0ff;
+
+}
+
+
+
+.neighborhood-guides {
+
+
+    background-color: #efefef;
+
+}
+
+
+
+
+.neighborhood-guides .container h2 {
+
+    color: #393c3d;
+
+    font-size: 28px;
+    position:relative;
+    left:25px;
+}
+
+
+
+.neighborhood-guides .container p {
+
+    margin-bottom: 13px;
+
+    font-size: 15px;
+    position:relative;
+    left:35px;
+}
+
+.vidds {
+  height: 800px;
+  overflow: hidden;
+  z-index=-1;
+  position:relative;
+  top=-180px;
+  border-bottom: 3px solid #dbdbdb;
+}
+
+#bg {
+    width:100%;
+}
+
+img {
+  border-bottom: 3px solid #dbdbdb;
+  border-top: 3px solid #dbdbdb;
+  border-left: 3px solid #dbdbdb;
+  border-right: 3px solid #dbdbdb;
+}
+
+.betw {
+  background-color:#CFD5FA;
+  border-top:3px solid #C0C8F9;
+  position:relative;
+  top:50px;
+}
+.betw h3{
+  position: relative;
+  font-family: 'Shift', sans-serif;
+
+  font-size: 13px;
+
+  font-weight: bold;
+  color: #393c3d;
+
+  left:25px;
+}
+
+td.fll {
+  position:relative;
+  float:left;
+}
+
+td.flr {
+  position:relative;
+  float:right;
+}
